@@ -2,6 +2,8 @@
 
 A React-based application for fetching, viewing, and editing JSON data from APIs. The app includes features like URL history, dark/light mode toggle, and a JSON viewer/editor.
 
+<img width="1920" height="1440" alt="502_1x_shots_so" src="https://github.com/user-attachments/assets/3baa4028-a51f-4f6f-81af-75b51b58021c" />
+
 ## Features
 
 - Fetch JSON data from APIs.
